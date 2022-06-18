@@ -1,0 +1,25 @@
+{
+  // Workbench
+  "workbench.colorTheme": "Dracula",
+  "workbench.editor.labelFormat": "short",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.startupEditor": "newUntitledFile",
+
+  // Editor settings
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 18,
+  "editor.lineHeight": 24,
+  "editor.parameterHints.enabled": false,
+  "editor.renderLineHighlight": "gutter",
+  "editor.rulers": [80, 120],
+  "editor.tabSize": 2,
+
+  // Terminal
+  "terminal.integrated.fontSize": 14,
+
+  // VSCode stuff
+  "breadcrumbs.enabled": true,
+  "editor.renderWhitespace": "all",
+  "explorer.compactFolders": false,
+}
